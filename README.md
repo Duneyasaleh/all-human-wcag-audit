@@ -1,21 +1,10 @@
-> _Fork_ deze deeltaak en ga aan de slag. De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
+## de doel van deze opdracht is leren hoe een toegankelijkheids test kan uitvoeren en presenteert ik mijn bevindingen.
+
+### Toegankelijkheids
+
+De verantwoordelijkheid van Frontender is om de website toegankelijk te maken voor verschillende mensen, op verschillende apparaten, in verschillende situaties. Met goede code en een goed ontwerp kun je ervoor zorgen dat ook mensen met een (tijdelijke) beperking kunnen genieten van een website. 
+Stel dat jou sitegebruiker blind of kleurenblind is, of de site alleen met een toetsenbord gebruikt, spastisch is of een hand in het gips heeft. Of...
+
+### voor deze deeltaak heb ik https://www.philips.nl/ getest en in mijn WIKI kan je vinden wat zijn de scoren, issues en de oplossingen.
 
 
-# WCAG Audit 
-
-Doe een WCAG test op een bestaande website en rapporteer daar over.
-
-## Titel Website
-
-Welke website heb je getest? Beschrijf de website en upload een screenshot. 
-
-Toon een screenshot van het Lighthouse Accessibility test resultaat.
-
-Schrijf een een samenvatting van de test bevindingen.
-
-
-## Licentie
-
-![GNU GPL V3](https://www.gnu.org/graphics/gplv3-127x51.png)
-
-This work is licensed under [GNU GPLv3](./LICENSE).
